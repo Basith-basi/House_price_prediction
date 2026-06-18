@@ -1,6 +1,6 @@
-# Student Marks Prediction
+# House price Prediction
 
-A Machine Learning project that predicts student marks based on study hours using Linear Regression.
+A Machine Learning project that predicts house price using area using Linear Regression.
 
 ## Technologies Used
 - Python
@@ -11,4 +11,4 @@ A Machine Learning project that predicts student marks based on study hours usin
 ## How to Run
 
 ```bash
-python student_marks_prediction.py
+python house_price_prediction.py
